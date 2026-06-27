@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="../SupermarketManagementSystem/SupermarketManagementSystem/SupermarketManagementSystem.csproj" />
-  <Project Path="SupermarketManagementSystem.Tests/SupermarketManagementSystem.Tests.csproj" />
-</Solution>
